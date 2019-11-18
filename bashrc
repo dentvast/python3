@@ -1,3 +1,5 @@
+# custom .bashrc
+# https://raw.githubusercontent.com/linuxacademy/content-python3-sysadmin/master/helpers/bashrc
 # vim: ft=sh
 
 # No brainer, default to Vim
